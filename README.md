@@ -1,3 +1,3 @@
-command to run app - npm run dev
+command to run the app - npm run dev
 
-tech stack used : React, Tailwind , Dasy UI.
+tech stack used: React, Tailwind, Daisy UI.
